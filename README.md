@@ -1,4 +1,4 @@
-# Brawl Stars Project
+# Brawl Stars Player Performance Analysis
 
 This project is focused on analyzing data from the popular mobile game Brawl Stars. We aim to gain insights into various aspects of the game, such as player statistics, trophy distribution, and regional trends.
 
