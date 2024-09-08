@@ -1,4 +1,7 @@
 pandas
+numpy
+matplotlib
+seaborn
 geopandas
 osmnx
 logging
